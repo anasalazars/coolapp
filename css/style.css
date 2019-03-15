@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,700,700i');
+.page{
+	background-color: #F4D81F !important;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.navbar-inner{
+	background-color: #F4D81F !important;
+}
+
+.title{
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: 200px;
+	width: 50px;
+}
+.intereses{
+	padding-left: 30px;
+	text-align: center;
+}
+
+.panel {
+	background-color: #F4D81F !important; 
+}
+.panel .panel-left .panel-cover{
+	background-color: #F4D81F !important; 
+}
+.jbalvin{
+	background-color: #F4D81F !important; 
+}
+.img-fluid2{
+	max-width: 100%;
+	align-content: center;
+}
+.perfil h1{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.login-screen {
+	padding-top: 50%;
+	background-color: #F4D81F !important;
+}
+.inicioregistrar{
+	padding-top: 50%;
+	background-color: #F4D81F !important;
+	color: #000 !important;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+.inicioregistrar a{
+	color: #000000;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	
+}
+.inicioregistrar h3{
+	color: #000;
+	font-size: 16px;
+	border-radius: 20px;
+}
+.inicioregistrar h2{
+	color: #000;
+	font-size: 16px;
+}
+.incioregistrar .link .login-screen-close .queescultura{
+	color: #000;
+}
+.inicioregistrar .queescultura{
+	margin-top: -20%;
+}
+.login-screen-content{
+	background-color: #F4D81F !important;
+	
+}
+.login-screen-content img{
+	border: 0 !important;
+}
+.perfil{
+
+	font-family: 'Josefin Sans', sans-serif !important; 
+}
+
+.queescultura .img-fluidque{
+	align-content: center;
+}
+.queescultura .block {
+	text-align-last: center;
+	font-family: 'Josefin Sans', sans-serif;
+} 
+.queescultura .navbar{
+	margin: 10%;
+}
+
+.queescultura .arrowback{
+	margin-top: 5%;
+	color: #000;
+}
+.block p{
+	margin-top: 40%;
+}
+.intereses{
+	padding-left: 30px;
+	text-align: center;
+}
+.intereses .img-fluid{
+	width: 80%;
+	max-width: 100%;
+	border: #00000;
+	border-style: solid;
+	margin: 10px 0;
+}
+.intereses h2{
+	text-align: center !important;
+	font-size: 300% !important;
+	font-family: 'Josefin Sans', sans-serif !important; 
+	padding-left: 25px !important; 
+}
+.perfil .img-fluidca{
+	margin-left: 20%;
+}
+.perfil h3{
+	padding-top: 18%;
+	padding-right: 20%;
+	margin-left: -10%;
+	font-weight: 700;
+}
+.perfil h4{
+	margin-top: -10%;
+	margin-left: -10%;
+	font-weight: 100;
+	font-style: italic;
+}
+.perfil h1{
+	font-size: 21px;
+}
+.perfil .img-fluidbi{
+	width: 15%;
+	max-width: 100%;
+	border: #00000;
+	border-style: solid;
+	margin: 5px;
+}
+.perfil .h1perfil{
+	font-size: 25px;
+	margin: 0px;
+	font-weight: 900;
+}
+.perfil .material-icons{
+	align-content: center;	
+}
+.eventos h3{
+	text-align: center;
+	margin-left: -110%;
+	margin-top: 0%;
+}
+.eventos .material-icons{
+
+}
+.eventos h1{
+	font-size: 25px;
+    font-weight: 900;
+    margin-top: 0%;
+	margin-bottom: 0%;
+}
+.intereses a img{
+	border-color: #000;
+}
+.jbalvin h1{
+	padding-top: 20%;
+    padding-bottom: 5%;
+}
+.queescultura h3{
+	font-weight: 700;
+	font-style: italic;
+}
+.queescultura p{
+	font-weight: 400;
+}
